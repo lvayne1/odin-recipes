@@ -1,0 +1,33 @@
+body{
+    background-color:cornsilk;
+}
+header {
+    width: 100%;
+    height: 70px;
+   color:black;
+    text-align : center;
+    font-size: 50px;
+    top: 0;
+    margin-top: 1rem;
+}
+.pictures{
+   text-align: center;
+    display: flex;
+}
+
+
+.pictures img{
+height: 500px;
+width: 500px;
+border-radius: 1rem;
+margin-top: 1rem;
+}
+
+.pictures div {
+    width: 33%;
+    margin: 1rem;
+}
+.pictures h2{
+    text-align: center;
+    font-size: 30px;
+}
